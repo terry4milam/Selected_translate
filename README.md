@@ -1,18 +1,14 @@
-# Caiyun
+# Selected Translation
 
-Clean, only translation
+only translation
 
-No login, unlimited use, no pop-ups, no tracking (Google Analytics)
-
-Base [彩云小译](https://chrome.google.com/webstore/detail/lingocloud-web-translatio/jmpepeebcbihafjjadogphmbgiffiajh)
-
-[Learn more](https://tmr.js.org/p/3bd1bb4e/)
+No login, Chrom API, pop-ups, no tracking (Google Analytics)
 
 # Install
 
 ## Chromium
 
-Download `crx` file from [releases](https://github.com/ttttmr/Caiyun/releases) to install
+Download `crx` file from [releases](https://github.com/Markup-first/Selected_translate/releases) to install
 
 If you are **using Chrome**, you need to install it manually
 
@@ -23,4 +19,4 @@ If you are **using Chrome**, you need to install it manually
 
 ## Firefox
 
-Download `xpi` file from [releases](https://github.com/ttttmr/Caiyun/releases) to install
+Download `xpi` file from [releases](https://github.com/Markup-first/Selected_translate/releases) to install
